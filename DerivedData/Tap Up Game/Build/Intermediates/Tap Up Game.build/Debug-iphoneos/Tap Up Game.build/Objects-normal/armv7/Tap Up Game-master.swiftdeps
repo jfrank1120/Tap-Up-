@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "4ff60fedc655771f44541af727ff2c85"
+build_time: [524811397, 152723000]
+inputs:
+  "/Users/NewUser/Google Drive/PROGRAMMING/Swift/My Apps/Tap Up Game/Tap Up Game/OptionsMenu.swift": [524810667, 0]
+  "/Users/NewUser/Google Drive/PROGRAMMING/Swift/My Apps/Tap Up Game/Tap Up Game/ViewController.swift": [524810761, 0]
+  "/Users/NewUser/Google Drive/PROGRAMMING/Swift/My Apps/Tap Up Game/Tap Up Game/GameViewController.swift": [524811396, 0]
+  "/Users/NewUser/Google Drive/PROGRAMMING/Swift/My Apps/Tap Up Game/Tap Up Game/AppDelegate.swift": [506715329, 0]
