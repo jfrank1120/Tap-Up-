@@ -11,4 +11,3 @@ Current Bugs:
 Features to be added later:
 - Additional power ups
 - Different Game Modes
-- 
