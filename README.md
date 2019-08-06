@@ -1,5 +1,7 @@
+# NOTE - Project Cannot Be Finished Due to Xcode 3 Versioning. Here for Nostaglia 
+
 # Tap-Up-
-IOS Game that I am in the process of finishing
+IOS Game that I created during high school
 
 # Gameplay
 Basic concept of the game is that the player taps on the circle in order to make sure that it stays above the bottom barrier. 
@@ -16,3 +18,6 @@ As the player survives longer the game gets progressively harder until the user 
 
 # Current Contributors
 - Jared Frank (jfrank1120)
+
+
+
